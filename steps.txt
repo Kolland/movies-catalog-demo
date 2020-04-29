@@ -1,0 +1,5 @@
+1. Скачать редактор кода (VS Code, Sublime, Atom)
+2. Создать основные файлы index.html, style.css, script.js
+3. Добавить в index.html базовую разметку страницы (http://htmlbook.ru/blog/shablony-html5)
+4. Добавляем js и css файлы в html шаблон
+5. Получить данные с бекенда (movies-db.json)

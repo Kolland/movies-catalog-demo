@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "title": "Avengers",
+        "year": "2012",
+        "director": "Joss Whedon",
+        "writers": "Joss Whedon, Zak Penn",
+        "stars": "Robert Downey Jr., Chris Evans, Scarlett Johansson",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+        "rating": "8.0"
+    }
+]
