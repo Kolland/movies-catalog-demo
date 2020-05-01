@@ -7,6 +7,36 @@
         "writers": "Joss Whedon, Zak Penn",
         "stars": "Robert Downey Jr., Chris Evans, Scarlett Johansson",
         "poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
-        "rating": "8.0"
+        "rating": "0"
+    },
+    {
+        "id": "2",
+        "title": "Avengers: Age of Ultron",
+        "year": "2015",
+        "director": "Joss Whedon",
+        "writers": "Joss Whedon, Stan Lee",
+        "stars": "Robert Downey Jr., Chris Evans, Scarlett Johansson",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SY1000_SX675_AL_.jpg",
+        "rating": "0"
+    },
+    {
+        "id": "3",
+        "title": "Avengers: Infinity War",
+        "year": "2018",
+        "director": "Anthony Russo, Joe Russo",
+        "writers": "Christopher Markus, Stephen McFeely",
+        "stars": "Robert Downey Jr., Chris Evans, Scarlett Johansson",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+        "rating": "0"
+    },
+    {
+        "id": "4",
+        "title": "Avengers: Endgame",
+        "year": "2019",
+        "director": "Anthony Russo, Joe Russo",
+        "writers": "Christopher Markus, Stephen McFeely",
+        "stars": "Robert Downey Jr., Chris Evans, Scarlett Johansson",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+        "rating": "0"
     }
 ]
